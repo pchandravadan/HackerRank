@@ -1,4 +1,5 @@
 ﻿using System;
+using HackerRank.DaysOfCode;
 
 namespace HackerRank
 {
@@ -6,7 +7,9 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DayOneDataTypes dt = new DayOneDataTypes();
+
+
         }
     }
 }
